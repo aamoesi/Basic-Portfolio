@@ -5,3 +5,13 @@
     float: left;
     padding: 15px 15px 10px 15px;
 }
+
+.tab{
+    font-display: 15px;
+    font-style: italic;
+    padding: 10px;
+    color: indianred;
+    background-color: bisque;
+    border: 9px;
+    
+}
