@@ -12,6 +12,13 @@ div {
     font-size: 25px;
     float: left;
     padding: 15px 15px 10px 15px;
+
+}
+
+.box_2{
+    color: blueviolet;
+    float: left;
+    padding: 15px 15px 10px 15px;
 }
 
 .tab{
