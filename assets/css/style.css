@@ -37,7 +37,7 @@ div {
 }
 
 .footer {
-    position: fixed;
+    background-position-x: 0%
     left: 0;
     bottom: 0;
     height: 30px;
