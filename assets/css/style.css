@@ -46,6 +46,7 @@ div {
     border: 5px;
     line-height: 20px;
     position: relative;
+    float: right;
 }
 
 .footer {
