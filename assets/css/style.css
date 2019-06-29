@@ -47,6 +47,7 @@ div {
 
 .box_3{
     color: blueviolet;
+
     position: relative;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 16px;
@@ -54,12 +55,18 @@ div {
     border-style: dashed;
     border: 5px;
     line-height: 20px;
-    position: relative;
 }
 
 .box_4{
-    float: right;
-
+    color: blueviolet;
+    position: relative;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 16px;
+    padding: 5px;
+    border-style: dashed;
+    border: 5px;
+    line-height: 20px;
+    
 }
 .footer {
     background-position-x: 5%;
