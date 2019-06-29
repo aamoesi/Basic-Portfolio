@@ -2,8 +2,7 @@ div {
     height: 150px;
     width: 960px;
     background-color: powderblue;
-    float: unset;
-    
+    float: none;
   }
 
 
