@@ -29,7 +29,7 @@ div {
 
 .box_1{
     float: left;
-    
+
 
 }
 
@@ -51,7 +51,8 @@ div {
 .footer {
     background-position-x: 5%;
     left: 0;
-    bottom: 0;
+    
+    bottom: 30px;
     height: 30px;
     width: 960px;
     background-color: rgb(119, 0, 255);
