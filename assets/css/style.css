@@ -4,13 +4,10 @@ div {
     background-color: powderblue;
     float: none;
   }
-
-
-
-
+  
 .box_2{
-    color: blueviolet;
-    float: left
+    color: #8a2be2;
+    float: left;
     padding: 15px 15px 10px 15px;
 }
 
