@@ -12,8 +12,7 @@ div {
 }
 
 .home_picture{
-    position: relative;
-    display: flex;
+
     float: left;
 
 }
@@ -47,11 +46,11 @@ div {
 
 .box_4{
     float: right;
+
 }
 .footer {
     background-position-x: 5%;
     left: 0;
-    
     bottom: 30px;
     height: 30px;
     width: 960px;
