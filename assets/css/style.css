@@ -11,7 +11,7 @@ div {
 }
 
 .hr{
-    height: 15px;
+    height: 20px;
     background-repeat: repeat-x;
     background-color: beige;
     border: none;
@@ -24,7 +24,7 @@ div {
 
 .h1{
     position: fixed;
-    
+
 
 }
 .home_picture{
