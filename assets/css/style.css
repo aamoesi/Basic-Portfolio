@@ -11,11 +11,12 @@ div {
 }
 
 .h1{
-    position: absolute;
-    
+    position: relative;
+
 }
 .home_picture{
     float: left;
+
 }
 
 .tab{
