@@ -11,6 +11,9 @@ div {
     padding: 15px 15px 10px 15px;
 }
 
+.home_picture{
+    position: relative;
+}
 .tab{
     font-display: 15px;
     font-style: italic;
