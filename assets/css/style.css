@@ -16,6 +16,8 @@ div {
     bottom: 30px;
     right: 30px;
     display: flex;
+    float: left;
+
 }
 .tab{
     font-display: 15px;
