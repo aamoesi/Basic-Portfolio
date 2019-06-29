@@ -12,9 +12,14 @@ div {
 }
 
 .home_picture{
-    height: 400px 600px;
+    height: 10px;
     float: left;
+    
 
+}
+
+.clearfix{
+    overflow: auto;
 }
 .tab{
     font-display: 15px;
