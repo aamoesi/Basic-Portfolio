@@ -13,6 +13,8 @@ div {
 
 .home_picture{
     position: relative;
+    bottom: 30px;
+    right: 30px;
 }
 .tab{
     font-display: 15px;
