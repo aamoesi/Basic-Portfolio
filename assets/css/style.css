@@ -44,14 +44,10 @@ div {
     float: right;
 }
 
-.box_1{
-    float: left;
-
-
-}
 
 .box_3{
     color: blueviolet;
+    position: relative;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 16px;
     padding: 5px;
@@ -59,7 +55,6 @@ div {
     border: 5px;
     line-height: 20px;
     position: relative;
-    float: right;
 }
 
 .box_4{
