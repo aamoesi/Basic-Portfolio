@@ -2,7 +2,6 @@ div {
     height: 150px;
     width: 960px;
     background-color: powderblue;
-    float: none;
   }
   
 .box_2{
@@ -11,6 +10,10 @@ div {
     padding: 15px 15px 10px 15px;
 }
 
+.h1{
+    position: absolute;
+    
+}
 .home_picture{
     float: left;
 }
