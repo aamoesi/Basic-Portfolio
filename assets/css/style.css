@@ -13,8 +13,6 @@ div {
 
 .home_picture{
     position: relative;
-    bottom: 30px;
-    right: 30px;
     display: flex;
     float: left;
 
