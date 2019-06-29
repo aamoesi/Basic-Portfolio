@@ -1,3 +1,10 @@
+div {
+    height: 600px;
+    width: 960px;
+    background-color: powderblue;
+  }
+
+
 .box_1{
     color: blueviolet;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
