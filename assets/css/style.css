@@ -6,18 +6,11 @@ div {
   }
 
 
-.box_1{
-    color: blueviolet;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    font-size: 25px;
-    float: left;
-    padding: 15px 15px 10px 15px;
 
-}
 
 .box_2{
     color: blueviolet;
-    float: left;
+    float: left
     padding: 15px 15px 10px 15px;
 }
 
@@ -29,7 +22,14 @@ div {
     background-color: bisque;
     border: 9px;
     float: right;
-    
+}
+
+.box_1{
+    color: blueviolet;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 25px;
+    padding: 15px 15px 10px 15px;
+
 }
 
 .address{
