@@ -28,10 +28,7 @@ div {
 }
 
 .box_1{
-    color: blueviolet;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    font-size: 25px;
-    padding: 15px 15px 10px 15px;
+    float: left;
 
 }
 
