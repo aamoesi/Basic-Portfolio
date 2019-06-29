@@ -33,9 +33,9 @@ div {
     color: blueviolet;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 16px;
-    padding: 15px 15px 10px 15px;
+    padding: 10px 10px 10px 10px;
     border-style: dashed;
-    border: 19px;
+    border: 20px;
 }
 
 .footer {
