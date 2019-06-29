@@ -5,7 +5,6 @@ div {
     float: none;
   }
   
-
 .box_2{
     color: #8a2be2;
     float: left;
@@ -23,6 +22,14 @@ div {
 }
 
 .box_1{
+    color: blueviolet;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 25px;
+    padding: 15px 15px 10px 15px;
+
+}
+
+.box_3{
     color: blueviolet;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 25px;
