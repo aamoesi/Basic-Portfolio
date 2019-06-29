@@ -20,12 +20,11 @@ div {
     width: 50%;
     margin-top: 5%;
     margin-bottom: 5%;
-    
-
 }
 
 .h1{
-    position: relative;
+    position: fixed;
+    
 
 }
 .home_picture{
