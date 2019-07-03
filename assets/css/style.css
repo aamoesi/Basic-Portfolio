@@ -1,4 +1,4 @@
-.col-md-3{
+.row{
   float: left;
   position: relative;
 
@@ -45,7 +45,7 @@ input[type=submit]:hover {
   color: #777777;
 }
 
-.h{
+div.h{
   font-family: Georgia, 'Times New Roman', Times, serif;
   background: #4aaaa5;
   
