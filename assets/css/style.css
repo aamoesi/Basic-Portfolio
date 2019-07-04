@@ -11,21 +11,19 @@
 .Portfolioimage1{
   float: left;
   margin: 25px;
-  padding: 0%;
+  padding: 5px;
 }
 
 .Portfolioimage2{
   width: 66%;
   margin: 25px;
-  padding: 0%;
-
-  
+  padding: 5px;
 }
 
 .Portfolioimage3{
   float: left;
   margin: 25px;
-  padding: 0%;
+  padding: 5px;
 
 }
 
@@ -33,5 +31,5 @@
   float: left;
   width: 66%;
   margin: 25px;
-  padding: 0%;
+  padding: 5px;
 }
