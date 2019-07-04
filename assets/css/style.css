@@ -19,7 +19,6 @@
   margin: 25px;
   padding: 5px;
   width: 66%;
-  block-size: 100%;
 }
 
 .Portfolioimage3{
@@ -32,6 +31,7 @@
 .Portfolioimage4{
   margin: 25px;
   padding: 5px;
+  width: 10%;
 }
 
 .Portfolioimage5{
