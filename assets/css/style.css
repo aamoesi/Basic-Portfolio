@@ -9,7 +9,7 @@ body{
   
 }
 
-.h{
+h{
   font-family: Georgia, 'Times New Roman', Times, serif;
   color: #4aaaa5;
 
@@ -20,7 +20,7 @@ body{
   float: left;
 }
 
-.p{
+p{
   float: right;
   border: #dddddd;
   width: 960px;
