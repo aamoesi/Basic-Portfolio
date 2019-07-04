@@ -21,6 +21,7 @@ body{
 }
 
 p{
+  background-image: url("/assets/images/email-pattern.png");
   float: right;
   border: #dddddd;
   width: 960px;
