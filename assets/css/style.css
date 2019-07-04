@@ -10,7 +10,6 @@
 
 .Portfolioimage1{
   float: left;
- 
   margin: 25px;
   padding: 5px;
 }
@@ -33,7 +32,7 @@
   float: left;
   margin: 25px;
   padding: 5px;
-  width: 33%;
+  width: 66%;
 }
 
 .Portfolioimage5{
