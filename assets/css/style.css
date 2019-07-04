@@ -41,3 +41,8 @@
   margin: 25px;
   padding: 5px;
 }
+
+.full{
+  clear: both;
+  overflow: auto;
+}
