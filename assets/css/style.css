@@ -1,14 +1,10 @@
-.image1{
-  float: left;
- 
-}
 
-div.Portfolioimage1{
+.Portfolioimage1{
   width: 33%;
   float: left;
 }
 
-div.Portfolioimage2{
+.Portfolioimage2{
   width: 33%;
   float: left;
 }
