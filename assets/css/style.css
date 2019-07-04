@@ -7,9 +7,9 @@ body{
 }
 
 
-nav_bar{
+.nav_bar{
   float: right;
-  
+
 }
 .image1{
   float: left;
