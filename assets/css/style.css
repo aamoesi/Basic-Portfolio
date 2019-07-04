@@ -3,6 +3,7 @@ body{
   font-family: Arial, Helvetica, sans-serif;
   border-color: #dddddd;
   width: 960px;
+  font: #777777;
   
 }
 
@@ -24,6 +25,7 @@ p{
   background-color: #ffffff;
   border: #dddddd;
   width: 960px;
+  font: #777777;
 }
 
 .Portfolioimage1{
