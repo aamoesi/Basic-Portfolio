@@ -1,9 +1,15 @@
+.image1{
+  float: left;
+ 
+}
 
 .portfolioimage1{
   float: left;
+  width: 33%;
 }
 
 .portfolioimage2{
   float: left;
+  width: 33%
 }
 
