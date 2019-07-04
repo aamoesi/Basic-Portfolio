@@ -3,12 +3,12 @@
  
 }
 
-.portfolioimage1{
+div.portfolioimage1{
   width: 33%;
   float: left;
 }
 
-.portfolioimage2{
+div.portfolioimage2{
   width: 33%;
   float: left;
 }
