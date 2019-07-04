@@ -2,6 +2,12 @@
   size: 70px;
 }
 
+.body{
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #ffffff;
+  border-color: #dddddd;
+
+}
 
 .image1{
   float: left;
