@@ -26,6 +26,7 @@
 
 .Portfolioimage3{
   float: left;
+  position: relative;
   margin: 25px;
   padding: 5px;
 }
