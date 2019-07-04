@@ -9,11 +9,12 @@
 
 .Portfolioimage2{
   float: left;
+  width: 66%;
   
 }
 
 .Portfolioimage3{
   width: 33%;
   float: left;
-  
+
 }
