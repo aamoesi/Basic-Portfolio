@@ -19,20 +19,21 @@
   margin: 25px;
   padding: 5px;
   width: 66%;
-  break-after: always;
+  
 }
 
 .Portfolioimage3{
   float: left;
   margin: 25px;
   padding: 5px;
+
 }
 
 .Portfolioimage4{
   float: left;
   margin: 25px;
   padding: 5px;
-  width: 0%;
+  width: 66%;
 }
 
 .Portfolioimage5{
