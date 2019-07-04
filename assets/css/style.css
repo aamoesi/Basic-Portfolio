@@ -6,11 +6,8 @@ body{
   background-color: #ffffff;
   border-color: #dddddd;
   color: greenyellow;
-  background: url(/assets/images/email-pattern.png)
+  background: url(/assets/images/email-pattern.png);
 
-
-  
-  
 }
 
 .h{
