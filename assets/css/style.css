@@ -4,12 +4,12 @@
 }
 
 .portfolioimage1{
-  float: left;
   width: 33%;
+  float: left;
 }
 
 .portfolioimage2{
+  width: 33%;
   float: left;
-  width: 33%
 }
 
