@@ -8,6 +8,10 @@
   float: left;
 }
 
+.p{
+  float: right;
+}
+
 .Portfolioimage1{
   float: left;
   margin: 25px;
@@ -41,5 +45,10 @@
   margin: 25px;
   padding: 5px;
   width: 100%;
+}
+
+.container_portfolio{
+  clear: both;
+  overflow: auto;
 }
 
