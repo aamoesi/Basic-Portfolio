@@ -20,9 +20,10 @@ h{
   float: left;
 }
 
-.p{
+p{
   float: right;
-  color: #777777;
+  background-color: #ffffff;
+  border: #dddddd;
 }
 
 .Portfolioimage1{
