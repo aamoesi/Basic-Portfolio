@@ -6,6 +6,11 @@ body{
   width: 960px;
 }
 
+
+nav_bar{
+  float: right;
+  
+}
 .image1{
   float: left;
 }
