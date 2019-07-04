@@ -5,11 +5,16 @@
 .Portfolioimage1{
   width: 33%;
   float: left;
+  margin: 0%;
+  padding: 0%;
 }
 
 .Portfolioimage2{
   float: left;
   width: 66%;
+  margin: 0%;
+  padding: 0%;
+  
   
 }
 
