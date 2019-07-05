@@ -75,7 +75,7 @@ body{
 
 .footer{
   position: fixed;
-  left: 0%;
+  margin: auto;
   bottom: 0%;
   width: 100%;
   background-color: #666666;
