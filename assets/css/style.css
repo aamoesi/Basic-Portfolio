@@ -12,7 +12,7 @@ body{
 
 .nav{
   list-style-type: none;
-  text-align: center;
+  text-align: right;
   display: inline;
   background-color: #ffffff;
   text-decoration: none;
