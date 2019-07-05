@@ -12,10 +12,10 @@ body{
 
 .nav{
   background-color: #4aaaa5;
-  float: right;
+  float: left;
   text-align: center;
   display: block;
-  
+
 }
 
 .h{
