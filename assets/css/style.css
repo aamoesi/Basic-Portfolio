@@ -30,7 +30,9 @@ body{
   }
 
   .active{
-    background-color: yellow;
+    background-color: #4aaaa5;
+    color: white;
+    
   }
 
 .h{
