@@ -11,12 +11,14 @@ body{
 }
 
 .nav{
+  list-style-type: none;
   float: top;
   text-align: center;
   display: block;
   background-color: #ffffff;
   text-decoration: none;
   border-color: #cccccc;
+
 
 }
 
