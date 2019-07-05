@@ -13,8 +13,7 @@ body{
 .nav{
   list-style-type: none;
   text-align: right;
-  float: right;
-  display: inline;
+  display:block;
   background-color: #ffffff;
   text-decoration: none;
   border-color: #cccccc;
