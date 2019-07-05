@@ -30,6 +30,10 @@ body{
   }
 
 
+  .log{
+    float: left;
+  }
+
 .h{
   font-family: Georgia, 'Times New Roman', Times, serif;
   color: green;
