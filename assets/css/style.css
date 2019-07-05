@@ -12,8 +12,7 @@ body{
 
 .nav{
   list-style-type: none;
-  color: #4aaaa5;
-  font: #4aaaa5;
+  color: yellow;
   text-align: right;
   display: inline;
   background-color: #ffffff;
