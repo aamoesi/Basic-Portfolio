@@ -1,23 +1,17 @@
 
 
-html{
-  max-width: 960px;
-  margin: auto;
-
-}
-
 body{
   background-image: url("email-pattern.png");
   font-family: Arial, Helvetica, sans-serif;
   background-color: #ffffff;
   border-color: #dddddd;
   background-size: auto;
+  max-width: 960px;
+  margin: auto;
 
 }
 
 
-
-}
 .h{
   font-family: Georgia, 'Times New Roman', Times, serif;
   color: green;
