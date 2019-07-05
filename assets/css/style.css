@@ -11,12 +11,12 @@ body{
 }
 
 .nav{
-  background-color: #4aaaa5;
   float: top;
   text-align: center;
   display: block;
   background-color: #ffffff;
-  
+  text-decoration: none;
+  padding: 12px;
 
 }
 
