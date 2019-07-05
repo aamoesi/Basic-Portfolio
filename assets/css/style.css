@@ -8,8 +8,6 @@ body{
   background-size: auto;
   max-width: 960px;
   margin: auto;
-  padding-bottom: 30px;
-
 }
 
 
@@ -83,4 +81,5 @@ body{
   background-color: #666666;
   color: #777777;
   font-family: Arial, Helvetica, sans-serif;
+  padding-top: 30px;
 }
