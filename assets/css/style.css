@@ -57,7 +57,6 @@ hr {
 
 
 .firstparagraph{
-  background-image: url("/assets/images/email-pattern.png");
   float: left;
   border: #dddddd;
   width: 960px;
@@ -66,7 +65,6 @@ hr {
 }
 
 .secondparagraph{
-  background-image: url("/assets/images/email-pattern.png");
   float: left;
   border: #dddddd;
   width: 960px;
