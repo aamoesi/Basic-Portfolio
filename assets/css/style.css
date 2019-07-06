@@ -32,10 +32,10 @@ body{
   .active{
     background-color: #4aaaa5;
     color: white;
-    
+
   }
 
-.h{
+h1{
   font-family: Georgia, 'Times New Roman', Times, serif;
   color: green;
 
