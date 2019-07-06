@@ -115,7 +115,7 @@ h1{
 
 /* Style inputs with type="text", select elements and textareas */
 input[type=text], select, textarea {
-    width: 80%;
+    width: 100%;
     padding: 12px;
     line-height: 16px;
     border-radius: 4px;/* Rounded borders */
