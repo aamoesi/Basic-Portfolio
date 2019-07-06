@@ -115,6 +115,7 @@ hr {
 .footer{
   position: fixed;
   border-color: #45a049;
+  border-top-width: 15px;
   left: 0%;
   text-align: center;
   bottom: 0%;
