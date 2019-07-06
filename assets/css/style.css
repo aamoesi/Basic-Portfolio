@@ -56,7 +56,7 @@ hr {
 } 
 
 
-.p{
+.firstparagraph{
   background-image: url("/assets/images/email-pattern.png");
   float: right;
   border: #dddddd;
