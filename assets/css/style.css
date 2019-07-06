@@ -65,6 +65,15 @@ hr {
   line-height: 30px;
 }
 
+.secondparagraph{
+  background-image: url("/assets/images/email-pattern.png");
+  float: right;
+  border: #dddddd;
+  width: 960px;
+  color: #777777;
+  line-height: 30px;
+}
+
 .Portfolioimage1{
   float: left;
   margin: 25px;
