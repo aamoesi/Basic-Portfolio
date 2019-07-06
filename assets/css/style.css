@@ -37,17 +37,27 @@ body{
 
 
 
+
 h1{
   font-family: Georgia, 'Times New Roman', Times, serif;
   color: #4aaaa5;
-
-
 
 }
 
 .image1{
   float: left;
 }
+
+hr { 
+  display: block;
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+  margin-left: auto;
+  margin-right: auto;
+  border-style: inset;
+  border-width: 5px;
+} 
+
 
 .p{
   background-image: url("/assets/images/email-pattern.png");
@@ -129,7 +139,7 @@ input[type=submit] {
   border-radius: 4px;
   cursor: pointer;
   float: right;
-  background-color: #45a049;
+  background-color: #4aaaa5;
 }
 
 input[type=submit]:hover {
