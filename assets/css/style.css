@@ -167,6 +167,6 @@ input[type=submit]:hover {
   }
 }
 
-row.submit{
+.submit{
 background-color: #45a049;  
 }
