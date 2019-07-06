@@ -115,8 +115,9 @@ h1{
 
 /* Style inputs with type="text", select elements and textareas */
 input[type=text], select, textarea {
-    width: 40%;
+    width: 80%;
     padding: 12px;
+    line-height: 16px;
     border-radius: 4px;/* Rounded borders */
     box-sizing: border-box;
     resize: vertical; /* Allow the user to vertically resize the textarea (not horizontally) */
