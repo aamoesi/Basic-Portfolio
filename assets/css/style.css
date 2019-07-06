@@ -42,7 +42,8 @@ h1{
 }
 
 .image1{
-  float: left;
+
+  display: inline
 }
 
 hr { 
