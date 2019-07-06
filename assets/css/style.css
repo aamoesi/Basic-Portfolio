@@ -8,6 +8,7 @@ body{
   background-size: auto;
   max-width: 960px;
   margin: auto;
+  font:
 }
 
 .nav{
@@ -59,7 +60,7 @@ hr {
 } 
 
 
-.p{
+p{
   background-image: url("/assets/images/email-pattern.png");
   float: right;
   border: #dddddd;
